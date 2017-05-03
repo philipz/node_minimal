@@ -1,6 +1,6 @@
 NAME = minimal
 APP_NAME = index.js
-NODE_VERSION = 6.0.0
+NODE_VERSION = 6.10.2
 
 PWD := $(shell pwd)
 
