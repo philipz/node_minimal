@@ -1,6 +1,6 @@
-NAME = minimal
-APP_NAME = index.js
-NODE_VERSION = 8.16.2
+NAME = bookhotel
+APP_NAME = BookHotel.js
+NODE_VERSION = 16-bullseye
 
 PWD := $(shell pwd)
 

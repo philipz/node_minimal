@@ -19,7 +19,7 @@ fi
 echo "---> copy binary itself"
 mkdir -p "$TARGET_FOLDER"/app
 cp --parents -v "$PATH_TO_BINARY" "$TARGET_FOLDER"/app
-cp --parents -v -R node_modules "$TARGET_FOLDER"/app
+# cp --parents -v -R node_modules "$TARGET_FOLDER"/app
 
 
 # copy the required shared libs to the target folder
