@@ -1,6 +1,6 @@
 NAME = bookhotel
 APP_NAME = BookHotel.js
-NODE_VERSION = 16-bullseye
+NODE_VERSION = 16-alpine
 
 PWD := $(shell pwd)
 
